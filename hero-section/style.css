@@ -13,10 +13,10 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    font-family: 'Poppins';
 }
 
 .font {
-    font-family: 'Poppins';
     color: #FFFFFF;
 }
 
