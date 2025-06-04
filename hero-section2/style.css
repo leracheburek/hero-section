@@ -62,11 +62,6 @@ li {
     gap: 24px;
 }
 
-.arrows {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
 
 .hero-info h1 {
     font-family: 'Inter';
